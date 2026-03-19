@@ -102,8 +102,8 @@ Using the command line, the PRANK executable for Linux can be downloaded and unp
 ```
 mkdir ~/programs
 cd ~/programs
-wget http://wasabiapp.org/download/prank/prank.linux64.251117.tgz
-tar prank.linux64.251117.tgz
+wget https://github.com/ariloytynoja/prank-msa/raw/refs/heads/master/binaries/prank.linux64.251117.tgz
+tar xf prank.linux64.251117.tgz
 ./prank/bin/prank
 ```
 
