@@ -1,4 +1,4 @@
-# PRANK
+# PRANK for aliview
 
 **See [https://ariloytynoja.github.io/prank-msa](https://ariloytynoja.github.io/prank-msa).**
 
